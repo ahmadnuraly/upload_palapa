@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/upload_palapa" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
